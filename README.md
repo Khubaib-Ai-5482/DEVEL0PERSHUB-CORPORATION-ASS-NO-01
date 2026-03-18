@@ -1,4 +1,4 @@
-# Machine Learning Mini Projects
+# DEVELPORSHUB-CORPORATION-ASS-NO-01
 
 This repository showcases several beginner-friendly machine learning projects. These tasks focus on **data exploration, visualization, cleaning, classification, regression, and model evaluation** using Python.
 
